@@ -30,14 +30,12 @@ const filmsList = props => {
 
           <ListGroup>
             {films.length > 0 ? films.map((film, index) => {
-
                 return <ListGroupItem
                   key={index}
-                  className="text-center">
+                  style={{overflow:"hidden"}}>
                   <img
                     src={film.snippet.thumbnails.default.url}
                     alt="film-pic"/>
-
                   <p>{film.snippet.title}</p>
                   <p>{film.snippet.description}</p>
                   {/*<iframe width="150" height="120" src={"https://www.youtube.com/embed/" + film.id.videoId}>*/}
