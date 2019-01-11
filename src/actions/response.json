@@ -1,0 +1,1662 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-LF5grA_IIBkye1u_U5MqW8GHYU\"",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HqNRxqy0NmuFoiCnTRiISLppJUI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tR74BrCDHv4"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-06T18:07:16.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "Shwin - Gateway",
+        "description": "Gateway Free Download: https://soundcloud.com/shwinmusic/gateway Spotify Playlist: http://bit.ly/AmbientSpotify Instagram: http://bit.ly/AmbientInstagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tR74BrCDHv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tR74BrCDHv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tR74BrCDHv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jIPxKgUy8AHh0hbgR62eR8Mk87A\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MgApT3VHtZY"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-25T15:54:48.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "'Afterglow' Ambient Mix",
+        "description": "Hi all. Recently, we have more than 250000 subscribers. This has already become a tradition to produce a big mix in honor of such an event. And today I'm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MgApT3VHtZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MgApT3VHtZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MgApT3VHtZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OhK0X7NnOMEkdl32wxcX2mQJMpw\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "990-kB-604A"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-17T17:00:00.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "'Skywalker' Ambient Mix",
+        "description": "Glad to introduce you a new massive Ambient Mix. Immerse yourself in this three-hour journey. Thanks everyone. Hope you enjoy it ✌   Download: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/990-kB-604A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/990-kB-604A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/990-kB-604A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AmtFhdbHjIFTA-P5yTJ6CI_gCEM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n0svuurLibQ"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-11T21:00:02.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "'Infinite' Ambient Mix",
+        "description": "Congratulations! We became more than 100000. The time for epic ambient mix, it's a gift for all of us. Insanely grateful to all of you, to everyone who is part of this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n0svuurLibQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n0svuurLibQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n0svuurLibQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mzjiv4RvoAJ7VqDNU_M_p_ceL38\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2WS9k-y6IYM"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T14:17:48.000Z",
+        "channelId": "UC_jxnWLGJ2eQK4en3UblKEw",
+        "title": "Chillstep 24/7 Livestream | Chill, Ambient & Study Music 🎧",
+        "description": "Welcome to the Mixhound Livestream, here you will find some great background music, study music or some chill gaming music, hope you enjoy! :) ○ To all chat ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2WS9k-y6IYM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2WS9k-y6IYM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2WS9k-y6IYM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MixHound",
+        "liveBroadcastContent": "live"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FWy7JLxTJVwMb-KJxqFoXrjI4Yk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yttwjrDnAxI"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-03T12:30:04.000Z",
+        "channelId": "UCkFeoNSqYTa7trn75WM9tsg",
+        "title": "Deep Relaxation Ambient Music ~ Space Music ~ Study ~ Sleep ~ Meditation",
+        "description": "Welcome to Calming Space Ambient Music. It is an excellent spiritual Background for Studying, Dreaming, Meditation, Yoga, Soul Healing, Stress Relief and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yttwjrDnAxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yttwjrDnAxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yttwjrDnAxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Relaxation Meditation Ambient Music",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jgofXzrTodKppBukpbBlf2MnGIs\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rnrK3zxsKdA"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-11T06:00:04.000Z",
+        "channelId": "UCq22aK0t0mrOEq676Be4ezw",
+        "title": "Alone and Peace | Beautiful Ambient Mix",
+        "description": "support (donate) BLUME: https://streamlabs.com/blumemusic ••••••••••••••••••••••••••••••••••••••••••••...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rnrK3zxsKdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rnrK3zxsKdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rnrK3zxsKdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLUME",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/h9DOzWEYRouwdmw02l2kkNGw2pk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IKPWNmcU7Po"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-30T21:46:25.000Z",
+        "channelId": "UC98_050r8lMxngxurJgU1gA",
+        "title": "8 Hour Deep Sleep Music ~ Relaxing Ambient Sleep ~ Delta Brainwaves ( Zen, Meditation)",
+        "description": "Free Meditation Music Presents ~ 8 Hour Deep Sleep Music ~ Relaxing Ambient Sleep ~ Delta Brainwaves ( Zen, Meditation) Download the Full Length Audio ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IKPWNmcU7Po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IKPWNmcU7Po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IKPWNmcU7Po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eric Bartel",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DXrQOGMRn2I8rlnmVj7EG3zXN-Q\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xApldi2rbk8"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-30T16:00:06.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "'Daydream' Ambient Mix",
+        "description": "Daydream! Time for a new massive Ambient mix. Thank you for staying and supporting channel, thanks for your activity, thanks for your kind comments, this mix ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xApldi2rbk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xApldi2rbk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xApldi2rbk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/y7BW0YBVCkCo7lCWB1McJEmkrhc\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RQcLIm-s75U"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-03T03:20:34.000Z",
+        "channelId": "UCvVWCrxq_aZr7fN_KpaGGTA",
+        "title": "1 hour of Ambient Fantasy Music | Tranquil Atmospheric Ambience | Enchanted Lands",
+        "description": "Enchanted Lands - Volume 1 (Download as MP3 and WAV available through Gumroad: https://gum.co/MBnb) A 60-minute atmospheric journey drifting through ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RQcLIm-s75U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RQcLIm-s75U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RQcLIm-s75U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Guild of Ambience",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Y_5rhaJvUL3OqoQqQt5aXFZomCI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dTW2MxfqVLI"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-07T20:26:12.000Z",
+        "channelId": "UCTPjZ7UC8NgcZI8UKzb3rLw",
+        "title": "'Blissful Solitude' - Ambient Mix",
+        "description": "So finally it's time for a new ambient mix after quite some time :D Ambient is often my genre of choice when I feel like taking time off and really want to calm down, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dTW2MxfqVLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dTW2MxfqVLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dTW2MxfqVLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fluidified",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/adFg8a8hkoc9aojPfqOnVyfuEFk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y7ab5XIaUBI"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-02T16:59:42.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "Hazy - Manifest",
+        "description": "Manifest. Download: https://hazymusic.bandcamp.com/track/manifest Spotify Playlist: http://bit.ly/AmbientSpotify Instagram: http://bit.ly/AmbientInstagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y7ab5XIaUBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y7ab5XIaUBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y7ab5XIaUBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZSB7q8w2e75CS9ew5xYwFrSBW4E\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sXSB7G4g5DI"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-03T19:42:45.000Z",
+        "channelId": "UCCbc96OSagKu8vfkaqVwvmQ",
+        "title": "Space Ambient Mix 29 - Quantum Foam",
+        "description": "This mix is a music compilation of a few great artists. However the music was stretched with a granular synthesis technique. Wallpaper artist: Oleg Danylenko is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXSB7G4g5DI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXSB7G4g5DI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXSB7G4g5DI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JediMaster",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FUCu2K9nknbCfuc615a3Sd9_DRU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R2fNpU6s4lg"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-08T16:05:16.000Z",
+        "channelId": "UCnNh61jZOzzZJCfQovV6Beg",
+        "title": "[FREE] Lil Skies Type Beat 2018 - \"Portal\" | Free Type Beat | Ambient Trap Instrumental 2018",
+        "description": "Purchase / Download Link: https://air.bi/2bszC Subscribe Here: https://goo.gl/Swuwsk Instagram: https://www.instagram.com/jcraftproducer Email: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R2fNpU6s4lg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R2fNpU6s4lg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R2fNpU6s4lg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JCraftProducer",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kOpw1Irnp-JSM_idPkFCsxrb0CE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gwklhUvDz64"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-08T12:03:15.000Z",
+        "channelId": "UCM0YvsRfYfsniGAhjvYFOSA",
+        "title": "MYSTICAL FOREST || Ambient Harp + Water Sounds || Nature Sounds and Soft Music",
+        "description": "MYSTICAL FOREST || Ambient Harp + Water Sounds.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gwklhUvDz64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gwklhUvDz64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gwklhUvDz64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Meditative Mind",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2gb1zZJxMGGPN64G5dRWc6r8dGE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8wLwxmjrZj8"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-17T20:09:01.000Z",
+        "channelId": "UCkFeoNSqYTa7trn75WM9tsg",
+        "title": "Space Ambient Music { INTERSTELLAR SPACE JOURNEY } Calming Background Music",
+        "description": "3 Hours of The Best Relax Music | INTERSTELLAR SPACE JOURNEY Theme |. Use this Exlusive Mind Opening Music track for your deep meditation, yoga ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8wLwxmjrZj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8wLwxmjrZj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8wLwxmjrZj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Relaxation Meditation Ambient Music",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/k5_HBKohGvS6wmouYi7-Q-Z_X20\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ly03DKdUF-k"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-06T15:51:20.000Z",
+        "channelId": "UCzolMvIqyoK6hV345m6FjTg",
+        "title": "Starlight | Ambient Mix",
+        "description": "Starlight | Ambient Mix ❤ Support ChilloutDeer: https://streamlabs.com/chilloutdeer • Tracklist: 00:00 DuNock - Street 04:03 Arros - Placate 08:10 Hazy - Manifest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ly03DKdUF-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ly03DKdUF-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ly03DKdUF-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChilloutDeer",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/SWqQs920LbvbNhBH6QNYDKOZhUI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lNn18F51bfo"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-09T06:00:00.000Z",
+        "channelId": "UCq22aK0t0mrOEq676Be4ezw",
+        "title": "Replacement | Beautiful Ambient Mix",
+        "description": "support (donate) BLUME: https://streamlabs.com/blumemusic ••••••••••••••••••••••••••••••••••••••••••••...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lNn18F51bfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lNn18F51bfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lNn18F51bfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLUME",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XQoyAhXmxp2WRbv4nbFVfg0t6w0\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PzW_WkcDx0Q"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-08T22:27:26.000Z",
+        "channelId": "UCkFeoNSqYTa7trn75WM9tsg",
+        "title": "Ambient Relaxing Music ~ Calm Music ~ Sleep ~Sudy ~ Deep Meditation",
+        "description": "Welcome to Calming Ambient Music. It is an excellent spiritual Background for Studying, Dreaming, Deep Meditation, Yoga, Soul Healing, Stress Relief and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PzW_WkcDx0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PzW_WkcDx0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PzW_WkcDx0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Relaxation Meditation Ambient Music",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dnAFJM1j8-gY3u0r0JOXnK62_E8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eEyOCavt4y4"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-27T18:05:55.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "Hazy - Cosmos",
+        "description": "Celestial worlds. Download: https://hazymusic.bandcamp.com/track/cosmos Spotify Playlist: http://bit.ly/AmbientSpotify Hazy https://soundcloud.com/hazy_music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eEyOCavt4y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eEyOCavt4y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eEyOCavt4y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/M4KlSHLZtsN3furzrQ_NAFR6Qkk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vjvaCaO-rxA"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-01T17:45:51.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "DuNock - Street (Official Video)",
+        "description": "AMG Records present Emptiness EP by DuNock. Download: https://ambientmusicalgenre.bandcamp.com/album/emptiness-ep Spotify Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vjvaCaO-rxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vjvaCaO-rxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vjvaCaO-rxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PzzUUXczQKw8gAB-qffsByZjRjw\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PLxb-alIiJ8"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-08T10:51:01.000Z",
+        "channelId": "UCPh7YEYv4pRp_FBOkJ1pTzA",
+        "title": "AMBIENT MODE – QLED TV x ZLATAN",
+        "description": "Samsungin yhteistyö Zlatanin kanssa jatkuu. Palkittu QLED TV tarjoaa toimintoja ja tekniikkaa, jotka ylittävät televisioihin kohdistuvat odotuksesi. Samsungin ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PLxb-alIiJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PLxb-alIiJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PLxb-alIiJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SamsungSuomi",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YTD55PwyMhJD_g9oqPpZxSUQAjU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qo4JIT8jMtI"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-15T02:00:00.000Z",
+        "channelId": "UCF9KnzQ28vwosfVDfSmvjXg",
+        "title": "🎧 Mountain Rain & Thunderstorm Sleep Sounds - Ambient Noise For Sleep & Meditation, @Ultizzz day#36",
+        "description": "Mountain Rain & Thunderstorm Sleep Sounds- Hiking to a Mountain top can be a great thing. The rush one gets when finishing such an arduous task is amazing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qo4JIT8jMtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qo4JIT8jMtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qo4JIT8jMtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ultimate Ambient Noise Soundzzz",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2Ia1rTsV4bVB32DNSvwWvb2sBAg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OLVZvgWT_40"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-03T18:00:02.000Z",
+        "channelId": "UCVHOgH4XEyYx-ZEaya1XqCQ",
+        "title": "Ambient Music for Sleep",
+        "description": "1 hour of Ambient Music for Sleep. Ambient mix by Cities Last Broadcast for Cryo Chamber dark ambient label. Tracklist: 01 Hymnambulae - Ett Ord Från Öknen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OLVZvgWT_40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OLVZvgWT_40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OLVZvgWT_40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cryo Chamber",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aaY36RMl1tuHk_davTOAXakZ3Ps\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xux_nifMdnk"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-07T13:54:12.000Z",
+        "channelId": "UCvFEd-pDgocvQhyWIDRoLwA",
+        "title": "REALME 2 PRO SOFTWARE UPDATE FIXABLES- Ambient Display? Themes? FM? Camera, Slow Motion, Fast Charge",
+        "description": "REALME 2 PRO SOFTWARE UPDATE FIXABLES- Ambient Display? Themes? FM? Camera, Slow Motion, Fast Charge, Solution of Cons? Android Pie 9 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xux_nifMdnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xux_nifMdnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xux_nifMdnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Me 4 Tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_YG-BZD1QbG9_1C0zm3X3FO7Vlg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oiimB47BsFo"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-26T12:57:35.000Z",
+        "channelId": "UCyPZmjEThQK5O3JuZfrPdiA",
+        "title": "A'AN - Off World (Blade Runner Ambient/Soundscape/Cyberpunk)",
+        "description": "The final version of \"Off World\", the \"N9 Cut\" is out now: https://youtu.be/PpI8Y5HRbwI Out of the unknown past and into an unknown future. Welcome to the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oiimB47BsFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oiimB47BsFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oiimB47BsFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DSCOVR",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vBb4vh_nXwJqWMsJYjKBX2BdVao\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G_8YHELuG0Q"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-30T06:00:00.000Z",
+        "channelId": "UCq22aK0t0mrOEq676Be4ezw",
+        "title": "Clear Your Mind | Beautiful Ambient Mix",
+        "description": "support (donate) BLUME: https://streamlabs.com/blumemusic ••••••••••••••••••••••••••••••••••••••••••••...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G_8YHELuG0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G_8YHELuG0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G_8YHELuG0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLUME",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VivsNeroryKkp3cdt3FOVW6-cZE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j_N34HoBrD4"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-13T06:00:03.000Z",
+        "channelId": "UCq22aK0t0mrOEq676Be4ezw",
+        "title": "Stress Relief | Beautifu Ambient Mix",
+        "description": "support (donate) BLUME: https://streamlabs.com/blumemusic ••••••••••••••••••••••••••••••••••••••••••••...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j_N34HoBrD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j_N34HoBrD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j_N34HoBrD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLUME",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Mx_dYSYFu5DwJ_ESQ2WHQqgYoyg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d_A2r_Pn3DE"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T14:00:17.000Z",
+        "channelId": "UCRBUHB4wPL1IIAYssTUjLDQ",
+        "title": "Hourglass Ambient Lighting Edit 4 vs Unlocked",
+        "description": "Hourglass ambient lighting edit comparison! Today is the Hourglass Ambient Lighting Edit 4 vs Unlocked palette from the hourglass holiday 2018 releases.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d_A2r_Pn3DE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d_A2r_Pn3DE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d_A2r_Pn3DE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ashley Klaty",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nbNZjwkFGyFy-SBHnLnPD42tmiA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uItmq5q1QL0"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-18T19:14:08.000Z",
+        "channelId": "UCKkAl9IWaI2rIyonJvm8nTA",
+        "title": "Ambient Post-Rock Mix, Vol. 1",
+        "description": "This is something I've been wanting to do for a long time: put together a compilation of ambient tracks from my favorite post-rock artists. I've always gravitated ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uItmq5q1QL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uItmq5q1QL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uItmq5q1QL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "9eCn3",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ybjMJ_ZJuGzU_TQs4NbUruxfblw\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eU7D3tQF1Bw"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-08T05:27:56.000Z",
+        "channelId": "UCeovElJP0n0i8ADaPsRSd8g",
+        "title": "Paradise Behind Me | Piano Tape Ambient",
+        "description": "Keep the loops running: http://patreon.com/hainbach The small Fostex 4track enables me to do a bit more complex arrangements, especially in regard to the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eU7D3tQF1Bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eU7D3tQF1Bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eU7D3tQF1Bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HAINBACH",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/30mRdo_VUGIvNDCvMzfqfyfIfQ0\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6RjpeHVx5-k"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-08T16:00:01.000Z",
+        "channelId": "UCq6821TyGAUmmDedBtLCdMA",
+        "title": "Dual Strymon El Capistan: Drones in A Major  [Ambient Sketch #58]",
+        "description": "Get My Free eBook: 5 Tips To Write Successful Ambient Guitar Songs → https://mailchi.mp/ambientguitaracademy.com/ambient-guitar-free-ebook That's right!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6RjpeHVx5-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6RjpeHVx5-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6RjpeHVx5-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Antoine Michaud",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HGCzGbqs9NyMkAOkDuYndS-_k2o\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b-b9Y_h6X7I"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-01T20:13:37.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "'Awakening of a Dream' Ambient Mix",
+        "description": "Ambient. Feed your mind. Hello my friends. A month has passed - and that means it's time for a beautiful collections, as always sounds my Ambient mix (Vol.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b-b9Y_h6X7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b-b9Y_h6X7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b-b9Y_h6X7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LVIIHPGQGbMutgCz1dfqWvpNzsA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H47TD7X_SOs"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-20T17:37:24.000Z",
+        "channelId": "UCzolMvIqyoK6hV345m6FjTg",
+        "title": "Universe | Ambient Mix",
+        "description": "Universe | Ambient Mix ❤ Support ChilloutDeer: https://streamlabs.com/chilloutdeer • Tracklist: 00:00 Tony Anderson - Immanuel 14:00 Olli - My Dear (feat.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H47TD7X_SOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H47TD7X_SOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H47TD7X_SOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChilloutDeer",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MK1wae4MVqFNt_Ot77FeJHZRPQ4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pW9-EYdguPQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-08T13:00:07.000Z",
+        "channelId": "UC5TYZjqir-wP_nmUov88s2w",
+        "title": "AMBIENT TRIP Number 8 | Stylophone GEN X-1",
+        "description": "AMBIENT TRIP Number 8 | Stylophone GEN X-1 #ambient #space #stylophone SONG: Pulsar ARTIST: Perry Frank Recorded Live at HomeLand Studios ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pW9-EYdguPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pW9-EYdguPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pW9-EYdguPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Perry Frank",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/U66RHWTxpl9eEtHjWLRrDVldLUE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jwOqk77N_qE"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-23T08:11:48.000Z",
+        "channelId": "UCUjD5RFkzbwfivClshUqqpg",
+        "title": "3 HOURS Relax Ambient Music | Wonderful Chillout Music | Infinity by Jjos",
+        "description": "Relax Ambient Music | Wonderful Chillout Music | Infinity by Jjos Enjoy Calm music for Relax, Study, Read, Spa, Sleeping Music and Relaxing you mind.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jwOqk77N_qE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jwOqk77N_qE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jwOqk77N_qE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Relax Chillout Music",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RjeMR3iHLOX42G02q3tant87dpE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lnjdZBETfgs"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-08T22:31:35.000Z",
+        "channelId": "UCX0ZH-HNg1TcMEdMh3hPlQQ",
+        "title": "Relaxing Music Radio | 24/7 Ambient tracks, Lofi hip hop, Chill trap",
+        "description": "Relaxing Music Radio livestream. Featuring the best ambient tracks, lofi hiphop songs, chill trap, and study music!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lnjdZBETfgs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lnjdZBETfgs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lnjdZBETfgs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WAVY",
+        "liveBroadcastContent": "live"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kEez6Oofis4prHs5_BOKTV8YVVY\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pLTq6jSGq90"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-01T14:30:35.000Z",
+        "channelId": "UCzolMvIqyoK6hV345m6FjTg",
+        "title": "Interstellar | Ambient Mix",
+        "description": "Interstellar | Ambient Mix ❤ Support ChilloutDeer: https://streamlabs.com/chilloutdeer • Tracklist: 00:00 Eternall - A Million Starflakes 03:26 Alivvve - Eternity ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pLTq6jSGq90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pLTq6jSGq90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pLTq6jSGq90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChilloutDeer",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1z-ozdbWD50Ew3VkkrPlw5UrxgA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_VA2PBLiqMg"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-08T23:18:23.000Z",
+        "channelId": "UCcZu7E7TIoJR_hDweg4xTTA",
+        "title": "Arctica - Annuminas (Extended Edition) [Ambient, Drone, Dark Ambeint, Field Recordings] [2017]",
+        "description": "Tracklist: 1. [00:00 - 53:40] Annuminas (Part 1) 2. [53:40 - 1:50:10] Annuminas (Part 2) 3. [1:50:10 - 2:50:10] Annuminas (Original 2014 Version) (Part 3) 4.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_VA2PBLiqMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_VA2PBLiqMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_VA2PBLiqMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Solar Media",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oT1c6Iepc8ftJ7GZ44S2b4LaG5I\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8GC57huXLYY"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-01T19:19:47.000Z",
+        "channelId": "UCuh787Hu1VuDayksTEsO6Zw",
+        "title": "10 Hours   Ambient   Soundscapes Relaxation Sleep Mix",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8GC57huXLYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8GC57huXLYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8GC57huXLYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "moh1321",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5Un2D1DYMFD4L20eqFlEaeK8Xy8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GAuKfr4Vajc"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T20:11:17.000Z",
+        "channelId": "UChIs72whgZI9w6d6FhwGGHA",
+        "title": "Final Battle: Insulating 2080 Ti SLI for Sub-Ambient Cooling",
+        "description": "This is probably the final entry (for a little while) of our #RIPJAY / #RIPLTT content. We'll be going back to normal reviews next, but wanted to show the build ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GAuKfr4Vajc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GAuKfr4Vajc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GAuKfr4Vajc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gamers Nexus",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/R_jQ2jrMFLFs6GuvaLRrD_zU6vA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uDkoYLCDvZ4"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T17:29:26.000Z",
+        "channelId": "UCm3-xqAh3Z-CwBniG1u_1vw",
+        "title": "Anicca - Sun Rays",
+        "description": "Sun Rays ☀   Free Download: https://soundcloud.com/musicbyanicca/sunrays Spotify Playlist: http://bit.ly/AmbientSpotify Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uDkoYLCDvZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uDkoYLCDvZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uDkoYLCDvZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/05RaRj7kyvAChhF_Oe4-ZbklgM0\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZxwSVM23Ptw"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-04T10:01:24.000Z",
+        "channelId": "UC_Kx8XKI89i7bsq3CHMv9Hg",
+        "title": "Ambient House Mix 1 by Amarel (Spheric Minimal Techno)",
+        "description": "Click \"SHOW MORE\" for Tracklist and visit Channel Trailer (https://youtu.be/rNMc-g60DXA) for more infos. One night I was playing at \"Nektar\" in Munich.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZxwSVM23Ptw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZxwSVM23Ptw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZxwSVM23Ptw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Emotional Electronic Music",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/L97LGLD3TyjkFRsoRWfbv-CxbWI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_KpvKvDp1J8"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-07T19:54:16.000Z",
+        "channelId": "UCGSSFkUjSBpDzA1aD4yq1zw",
+        "title": "Studio Livestream #2 Ambient Session",
+        "description": "This is the recording of an ambient music session that I played on oct. 8th from 22:00 - 00:30 to celebrate my birthday. Here are the rules: - all music is played ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_KpvKvDp1J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_KpvKvDp1J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_KpvKvDp1J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Stürtzer",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BUbtI_OYiDtIv2k-3KZz14zssVc\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AOQXdGJ7CpU"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-25T16:27:42.000Z",
+        "channelId": "UC4FJqH_rh7kBHGHBYPVX0tQ",
+        "title": "Therapist - Morphing Structures (ambient/downtempo/tech/deep)",
+        "description": "Tracklist: 1. Solar Fields - A Place to Think 2. Cell - Second Shape Pt. II 3. Aes dana feat. Miktek - Parenthesis 4. Solar Fields - Cluster 5. S1gns of L1fe - Sun ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AOQXdGJ7CpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AOQXdGJ7CpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AOQXdGJ7CpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ambient Occlusion",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bWP2VVYbZkJov-KOjLF-OkQdqtU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zloJ_yptWU0"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-19T14:10:48.000Z",
+        "channelId": "UCvVWCrxq_aZr7fN_KpaGGTA",
+        "title": "1 hour of Ambient Fantasy Music | Tranquil Atmospheric Ambience | Enchanted Lands - Volume 2",
+        "description": "Enchanted Lands - Volume 2 (Download as MP3 and WAV available through Gumroad: https://gum.co/OPNhV) A 60-minute atmospheric journey drifting through ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zloJ_yptWU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zloJ_yptWU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zloJ_yptWU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Guild of Ambience",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AGQPXNZQHb_8oLbvAUtCdmA3wk4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QDHDuedml2M"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-07T12:00:26.000Z",
+        "channelId": "UC4UWbQ23IbWwU-XG7XIWxvQ",
+        "title": "Relaxing Forest Nature Sounds Ambient Birdsong-Calming Water Sound-Soothing Mindfulness Relaxation",
+        "description": "If you contribute and support my project by purchasing any of my mp3 soundscapes please leave a message on my youtube community page so I can thank you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QDHDuedml2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QDHDuedml2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDHDuedml2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "johnnielawson",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hp5h7zQQKbtba8OI74naBzaNnQY\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nVRqq947lNo"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-20T02:54:14.000Z",
+        "channelId": "UC5YnczkXAGRyAutSSFPzFlg",
+        "title": "Nordic Ambient Music",
+        "description": "NOTE: The old video is back, but the copyright sections are still muted. Just gonna leave everything as is because people have playlists have to add this note ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nVRqq947lNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nVRqq947lNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nVRqq947lNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "moonasha",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dnS0VdgBEK_6CYe1KLWHUzUYVm4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oolg6NkWvXI"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-07T14:08:28.000Z",
+        "channelId": "UC0OPKQGQ-YBdo_Quc5PUtuQ",
+        "title": "Ambient Relaxing Music From Metroid Series",
+        "description": "All Rights belong to Nintendo. Tracks on Playlist: Phendrana Drifts (Ambience) - Metroid Prime (0:00) Phendrana Drifts - Metroid Prime (2:25) Brinstar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oolg6NkWvXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oolg6NkWvXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oolg6NkWvXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NoRank",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9jJxg4mBSpkiYsJhdOXh6aR3oBQ\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XhX5C_MxTXA"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-24T17:35:42.000Z",
+        "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+        "title": "Piano Ambience - Space Piano - Relaxing Ambient Music for Studying, Focus, Sleep",
+        "description": "Check out new DIY life hacks channel https://goo.gl/qztQ8D Relaxing, Soft and Slow Piano Ambient Music perfect as background music for studying, focus or ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XhX5C_MxTXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XhX5C_MxTXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XhX5C_MxTXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "10HoursOfEverything",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}
