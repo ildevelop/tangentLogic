@@ -1,4 +1,4 @@
-## YouTube movies from mockData
+## YouTube movies
 A small application Where you can find fom responce.json file music video.
 You can also can see all descrioprion and more about this video and add to your favorite list
 
@@ -13,6 +13,9 @@ You can also can see all descrioprion and more about this video and add to your 
 * `cd tangentLogic`
 * `npm i`
 * `npm start`
+
+## You can try it on live
+`https://tangentlogic.herokuapp.com`
 
 
 

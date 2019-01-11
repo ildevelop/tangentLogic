@@ -1,15 +1,8 @@
 {
-  "name": "react-weather",
+  "name": "tangentLogic",
   "version": "0.1.0",
-  "homepage": "https://ildevelop.github.io/react-weather",
+  "homepage": "https://github.com/ildevelop/tangentLogic",
   "private": true,
-  "proxy": {
-    "/api": {
-      "target": "api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=88d53c3306bc49b15fc64a2531c97d34",
-      "secure": false,
-      "changeOrigin": true
-    }
-  },
   "dependencies": {
     "babel-core": "6.26.0",
     "babel-eslint": "7.2.3",
