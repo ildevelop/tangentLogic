@@ -1,6 +1,4 @@
 import * as mainConstanst from '../reducers/constant'
-import axios from "axios";
-import {URL} from './secret'
 import {items} from './response'
 export const initState = () => dispatch => {
   const localfilms = JSON.parse(localStorage.getItem("films"));
@@ -10,10 +8,6 @@ export const initState = () => dispatch => {
       payload: localfilms
     });
   } else {
-    console.log('items',items);
-
-    let localData = JSON.stringify(items);
-    // localStorage.setItem('films', localData);
     dispatch({
       type: mainConstanst.FETCH_films_SUCCESS,
       payload: items
@@ -21,33 +15,16 @@ export const initState = () => dispatch => {
   }
 };
 
-export const getfilmsAPI = (title, year) => async dispatch => {
-  let url = URL + 't=' + title + '&y=' + year;
-  const newfilm = await axios.get(url);
-  if (newfilm.data.Response === "True") {
-    dispatch({
-      type: mainConstanst.FETCH_NEW_FILM_SUCCESS,
-      payload: newfilm.data
-    });
-  } else {
-    return dispatch({
-      type: mainConstanst.FETCH_NEW_FILM_ERROR,
-    });
-  }
 
-
-};
 export const clearSearchData = ()=>{
+  let resetFilms = JSON.stringify(items)
+  localStorage.setItem('films', resetFilms);
   return {
-    type: mainConstanst.CLEAR_SEARCH,
+    type: mainConstanst.FETCH_films_SUCCESS,
+    payload: items
   };
 };
-export const addYear = (year)=>{
-  return {
-    type: mainConstanst.ADD_YEAR,
-    payload:year
-  };
-};
+
 
 export const closeModal = () => {
   return {

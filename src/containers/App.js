@@ -34,16 +34,12 @@ class App extends Component {
   searchedFilm = film => {
     this.props.addFilm(film);
   };
-  handleAddNewFilm = () => {
-    this.props.getfilmsAPI(this.props.searchValue, this.props.year);
-  };
 
   render() {
-    const {loaded, searchValue, searchedfilms, myfilms,year} = this.props;
+    const {loaded, searchValue, searchedfilms, myfilms} = this.props;
     return (
       <Container>
         <Header/>
-        <h2>Hello</h2>
         <Switch>
           <Route
             exact path="/"
@@ -52,14 +48,11 @@ class App extends Component {
                 <FilmsList
                   loaded={loaded}
                   films={searchedfilms}
-                  year={year}
                   value={searchValue}
                   onInputChange={this.handleSearchFilm}
-                  onInputChangeYears={(year) => this.props.addYear(year)}
                   onClearSearch={() =>this.props.clearSearchData()}
                   onAddfilms={this.searchedFilm}
                   onRemovefilms={this.handleRemoveMyfilms}
-                  onAddNewFilm={this.handleAddNewFilm}
                 />
               );
             }}
@@ -103,8 +96,6 @@ const mapStateToProps = state => ({
   searchedfilms: selector.getSearchedfilms(state),
   myfilms: selector.getMyfilms(state),
   errorFilm: selector.getErrorNewFilm(state),
-  year:selector.getYear(state)
-
 });
 
 function mapDispatchToProps(dispatch) {

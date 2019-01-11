@@ -17,21 +17,14 @@ const myRecipeList = props => {
                 return  <ListGroupItem
                   key={index}
                   className="text-center">
-                  {film.Poster?
-                    <img
-                      src={film.Poster}
-                      alt="film-pic"/>
-                    : <img
-                      src={"//ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"}
-                      alt="film-pic"/>}
-                  <p>
-                    {film.Title+ "/" + film.Year}
-                  </p>
-                  <p>Actors:{film.Actors}</p>
-                  <p>Descriptions:{film.Plot}</p>
-                  {film.Ratings.length>1?
-                    <p>Ratings:{film.Ratings[0].Value}</p>:null
-                  }
+                  <img
+                    src={film.snippet.thumbnails.default.url}
+                    alt="film-pic"/>
+
+                  <p>{film.snippet.channelTitle}</p>
+                  <p>{film.snippet.description}</p>
+                  <iframe width="350" height="220" src={"https://www.youtube.com/embed/"+film.id.videoId}>
+                  </iframe>
                   <Button
                     style={{marginBottom: "10px"}}
                     color="danger"
